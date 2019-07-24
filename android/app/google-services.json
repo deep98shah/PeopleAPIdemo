@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824318712890",
+    "firebase_url": "https://signindemo-13a61.firebaseio.com",
+    "project_id": "signindemo-13a61",
+    "storage_bucket": "signindemo-13a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824318712890:android:1eb3a93f8ee54fe4",
+        "android_client_info": {
+          "package_name": "com.signin_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824318712890-8do4jskq3tg77mmtaeh3b9rrq9pbq6fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signin_demo",
+            "certificate_hash": "7ea76422f42e9f6b87566a4971b7208b5ebffc45"
+          }
+        },
+        {
+          "client_id": "824318712890-6r1f9fjef86tj8e5s8b50su79hk7h8ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-azFAFPQUooSTPSLBolqe-8Ff_s-LlqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824318712890-6r1f9fjef86tj8e5s8b50su79hk7h8ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
